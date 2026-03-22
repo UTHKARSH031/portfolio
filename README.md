@@ -6,16 +6,15 @@ This project showcases my skills, projects, and contact information.
 ##  Live Website
 You can view the deployed portfolio here:
 
-```
-https://uthkarsh031.github.io/portfolio/
-```
+
+<a href="https://uthkarsh031.github.io/portfolio/">https://uthkarsh031.github.io/portfolio</a>
 
 ##  Features
 - Clean and responsive design
 - Project showcase section
 - Skills overview
 - Contact section
-- Lightweight static website
+- Lightweight< static website
 
 ## 🛠️ Built With
 - HTML5
